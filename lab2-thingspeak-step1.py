@@ -1,7 +1,7 @@
 import httplib
 import urllib
 import time
-key = "ABCD"  # Put your API Key here
+key = "H13SMVE92UY69H2E"  # Put your API Key here
 def thermometer():
     while True:
         #Calculate CPU temperature of Raspberry Pi in Degrees C
